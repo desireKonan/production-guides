@@ -11,7 +11,7 @@ PORT=3005
 DATABASE_URL="postgresql://postgres:Desire01@172.17.0.1:5432/agendax?schema=public&connect_timeout=10000&connection_limit=15"
 
 # SMTP Configuration (Mailpit)
-SMTP_HOST=smtp.e.com
+SMTP_HOST=
 SMTP_PORT=465
 SMTP_USER=no-reply@agendax-events.com
 SMTP_PASS=Matadores12@S.12
